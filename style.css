@@ -83,14 +83,23 @@ body {
 }
 
 #hashtag {
-    position: relative;
-    padding-bottom: 20px;
-    color: var(--accentColor);
-    font-size: 1rem;
-    display: block;
-    font-family: var(--font);
-    width: 100%;
-    text-align: center;
+  position: relative;
+  padding-bottom: 20px;
+  color: var(--accentColor);  /* Inherit accent color, if defined */
+  font-size: 1rem;
+  display: block;
+  font-family: var(--font);
+  width: 100%;
+  text-align: center;
+}
+
+#hashtag a {  /* Target the anchor tag within #hashtag */
+  color: inherit;  /* Inherit color from #hashtag (black by default) */
+}
+
+#hashtag a:hover {
+  text-decoration: underline;
+  color: #9b59b6;  /* Set hover color to purple */
 
     /*  animation   */
     overflow: hidden;
