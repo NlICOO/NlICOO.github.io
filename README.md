@@ -4,8 +4,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/linktree?color=04D361&labelColor=000000">
   
-  <a href="https://www.linkedin.com/in/johnggli/">
-    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=John%20Emerson&color=04D361&labelColor=000000">
+  <a href="[https://www.linkedin.com/in/johnggli/](https://linktr.ee/NlICOO)">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/linktree?color=04D361&labelColor=000000">
@@ -56,11 +55,3 @@ git clone https://github.com/johnggli/linktree
 - Push to your branch: `git push origin my-feature`.
 
 Once your pull request has been merged, you can delete your branch.
-
-## 📝 License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
-
----
-
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
